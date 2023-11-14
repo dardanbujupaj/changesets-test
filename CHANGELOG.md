@@ -1,5 +1,11 @@
 # changesets-test
 
+## 1.0.5
+
+### Patch Changes
+
+- e5ea187: hotfix
+
 ## 1.0.5-rc.0
 
 ### Patch Changes
