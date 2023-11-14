@@ -1,5 +1,12 @@
 # changesets-test
 
+## 1.0.4
+
+### Patch Changes
+
+- bf9b5fc: another change
+- bc5c953: a change
+
 ## 1.0.4-rc.1
 
 ### Patch Changes
