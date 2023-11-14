@@ -1,8 +1,8 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "rc",
   "initialVersions": {
-    "changesets-test": "1.0.3"
+    "changesets-test": "1.0.4-rc.0"
   },
   "changesets": [
     "wise-lemons-leave"
