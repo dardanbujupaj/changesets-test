@@ -4,5 +4,7 @@
   "initialVersions": {
     "changesets-test": "1.0.4"
   },
-  "changesets": []
+  "changesets": [
+    "five-bikes-drive"
+  ]
 }
