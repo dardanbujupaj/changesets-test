@@ -5,6 +5,7 @@
     "changesets-test": "1.0.4-rc.0"
   },
   "changesets": [
+    "empty-schools-retire",
     "wise-lemons-leave"
   ]
 }
