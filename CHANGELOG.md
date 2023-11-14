@@ -1,5 +1,11 @@
 # changesets-test
 
+## 1.1.0
+
+### Minor Changes
+
+- 38145ea: minor change
+
 ## 1.1.0-rc.0
 
 ### Minor Changes
