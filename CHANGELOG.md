@@ -1,5 +1,11 @@
 # changesets-test
 
+## 1.0.4-rc.0
+
+### Patch Changes
+
+- bc5c953: a change
+
 ## 1.0.3
 
 ### Patch Changes
